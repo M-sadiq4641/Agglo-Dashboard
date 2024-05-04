@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.border1px{
+  border-right: 1px solid rgba(255, 255, 255, 0.192);
+}
+.borderbot1px{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.192);
+}
